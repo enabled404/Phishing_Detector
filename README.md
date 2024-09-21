@@ -84,17 +84,18 @@ const API_KEY = 'your_api_key_here';
    const API_KEY = 'your_api_key_here';
    ```
 ## Contributing
-Contributions are welcome! If you have any improvements or suggestions, feel free to submit a pull request or open an issue.
+- **Contributions are welcome! If you have any improvements or suggestions, feel free to submit a pull request or open an issue.
 
 Author
-Saad Khalid (enabled404)
-Cybersecurity Enthusiast and Developer.
+- **Saad Khalid (enabled404).
+ 
+- **Cybersecurity Enthusiast and Developer.
 
 Feel free to reach out for collaborations or suggestions.
 
 ## Contact
-Email: saadkhalid@example.com
-GitHub: enabled404
+- **Email: saadkhalid@example.com.
+- **GitHub: enabled404
 
 ## Disclaimer
 This extension uses a third-party API (VirusTotal) to check URLs for phishing threats. Use at your own risk. Make sure to comply with VirusTotal’s API usage policy.
