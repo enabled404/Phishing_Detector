@@ -3,7 +3,7 @@
 
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
   if (message.type === 'checkURL') {
-      const apiKey = '7ad2fa019c6d22218192aef13d4eba36eeb34d7f64dd4c541506defc49770d3b'; // Replace with your VirusTotal API key
+      const apiKey = 'your_api_key_here'; // Replace with your VirusTotal API key
       const urlToCheck = message.url;
       const apiURL = `https://www.virustotal.com/vtapi/v2/url/report?apikey=${apiKey}&resource=${encodeURIComponent(urlToCheck)}`;
 
