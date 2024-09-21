@@ -54,3 +54,47 @@ phishing_detector_extension/
     ├── icon16.png
     ├── icon48.png
     └── icon128.png
+```
+## Configuration
+
+To use this extension, you must configure your own VirusTotal API key.
+
+1. Sign up for a free API key from [VirusTotal](https://www.virustotal.com/gui/join-us).
+
+2. After obtaining your API key, open the `background.js` file and replace `your_api_key_here` with your actual API key:
+
+```javascript
+const API_KEY = 'your_api_key_here';
+```
+---
+
+## Installation Instructions
+
+1. Clone the repository to your local machine using:
+   ```bash
+   git clone https://github.com/enabled404/Phishing_Detector.git
+## Load the unpacked extension into Chrome:
+
+1. Open Chrome and go to `chrome://extensions/`.
+2. Enable **Developer Mode** by toggling the switch in the top right.
+3. Click **Load unpacked** and select the directory where the extension files are located.
+4. Replace the placeholder API key with your own in `background.js` file:
+
+   ```javascript
+   const API_KEY = 'your_api_key_here';
+   ```
+## Contributing
+Contributions are welcome! If you have any improvements or suggestions, feel free to submit a pull request or open an issue.
+
+Author
+Saad Khalid (enabled404)
+Cybersecurity Enthusiast and Developer.
+
+Feel free to reach out for collaborations or suggestions.
+
+## Contact
+Email: saadkhalid@example.com
+GitHub: enabled404
+
+## Disclaimer
+This extension uses a third-party API (VirusTotal) to check URLs for phishing threats. Use at your own risk. Make sure to comply with VirusTotal’s API usage policy.
