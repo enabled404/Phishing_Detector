@@ -94,7 +94,7 @@ Author
 Feel free to reach out for collaborations or suggestions.
 
 ## Contact
-- **Email: saadkhalid@example.com**.
+- **Email: saadkhalid2000@outlook.com**.
 - **GitHub: enabled404**
 
 ## Disclaimer
