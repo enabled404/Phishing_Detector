@@ -100,7 +100,9 @@ Feel free to reach out for collaborations or suggestions.
 ## Disclaimer
 This extension uses a third-party API (VirusTotal) to check URLs for phishing threats. Use at your own risk. Make sure to comply with VirusTotal’s API usage policy.
 
-## Copyright 2024 [Saad Khalid].
+## Licience
+
+- **Copyright 2024 [Saad Khalid]**.
 
 All Rights Reserved
 
