@@ -83,7 +83,7 @@ const API_KEY = 'your_api_key_here';
    ```javascript
    const API_KEY = 'your_api_key_here';
    ```
-## Contributing
+## Contributions
 - **Contributions are welcome! If you have any improvements or suggestions, feel free to submit a pull request or open an issue**.
 
 Author
@@ -99,3 +99,24 @@ Feel free to reach out for collaborations or suggestions.
 
 ## Disclaimer
 This extension uses a third-party API (VirusTotal) to check URLs for phishing threats. Use at your own risk. Make sure to comply with VirusTotal’s API usage policy.
+
+## Copyright 2024 [Saad Khalid].
+
+All Rights Reserved
+
+This software and associated documentation files (Phishing Detector) are copyrighted and licensed under the terms of this license. By using the Software, you agree to the following terms:
+
+
+1. **No Redistribution**: You may not distribute, sublicense, or otherwise provide access to the Software to others without explicit written permission from the copyright holder.
+
+2. **No Commercial Use**: The Software may not be used for commercial purposes without explicit written permission from the copyright holder.
+
+3. **No Reverse Engineering**: You may not reverse engineer, decompile, or disassemble the Software, except as required by applicable law.
+
+4. **Ownership**: The Software remains the property of the copyright holder, and all rights not explicitly granted are reserved.
+
+5. **No Warranty**: The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+For any inquiries or permissions related to the Software, please contact [@saadkhalid2000@outlook.com].
+
+---
